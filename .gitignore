@@ -1,0 +1,10 @@
+# Variáveis de ambiente — NUNCA subir
+.env
+
+# Ambiente virtual Python
+venv/
+__pycache__/
+
+# Dados coletados (opicional — podem ser grandes)
+*.csv
+*.json
